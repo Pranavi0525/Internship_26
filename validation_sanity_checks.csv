@@ -1,0 +1,6 @@
+location,pincode,found,num_qualifying_detections,years_with_detection,frequency_pct,max_frp_mw,verdict
+"Similipal, Odisha",757043,True,171,13,48.14814814814815,57.31,Rare-but-severe
+"Bandipur, Karnataka",571126,True,31,11,40.74074074074074,114.56,Rare-but-severe
+"Nagarhole, Karnataka",571121,True,52,16,59.25925925925925,49.8,Frequent-and-severe
+Central Delhi,110001,True,36,14,51.85185185185185,13.53,Rare-and-mild
+Central Mumbai,400001,True,9,6,22.22222222222222,13.28,Rare-and-mild
